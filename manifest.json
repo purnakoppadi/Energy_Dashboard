@@ -1,0 +1,21 @@
+{
+  "name": "Energy Dashboard",
+  "short_name": "EnergyDash",
+  "start_url": "/Energy_Dashboard/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
